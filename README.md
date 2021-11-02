@@ -1,6 +1,7 @@
 # Pipedrive Front-end Developer Challenge
 
 This small project was developed as part of a coding challenge for pipedrive
+You need to supply a pipedrive API token to run the project
 
 ## Instalation
 
